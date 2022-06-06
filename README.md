@@ -1,1 +1,1 @@
-We created an gui for a specific site where we display statistics in specific graphics.
+We created an gui for a specific site where we read and display statistics in form of graphics.
