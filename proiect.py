@@ -92,7 +92,6 @@ def but5():
 def but6():
     Button(root, text='Afiseaza graficul',command=afisare6).pack()
 
-
 Radiobutton(root, text="Numar de biblioteci", variable=r, value=1, command=but1).pack(anchor=W)
 Radiobutton(root, text="Numar de biblioteci publice", variable=r, value=2, command=but2).pack(anchor=W)
 Radiobutton(root, text="Numar utilizatori activi in biblioteci", variable=r, value=3, command=but3).pack(anchor=W)
